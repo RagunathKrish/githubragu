@@ -1,0 +1,9 @@
+count=0
+for i in range(0,100):
+    if(i%2==0):
+       count=count+1
+print("Number of Even Numbers 0 to 100:",count)
+
+    
+    
+

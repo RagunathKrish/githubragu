@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+X=a+b+c
+Y=a*b*c
+Z=a/b/c
+print("Add:",X)
+print("Mult:",Y)
+print("Div:",Z)
